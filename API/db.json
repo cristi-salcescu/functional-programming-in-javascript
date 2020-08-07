@@ -1,0 +1,8 @@
+{
+  "todos": [
+    {"id":1, "title": "To Do 1"}
+  ],
+  "dictionaries": [
+	{ "name": "Dictionary 1"}
+  ]
+}

@@ -1,0 +1,1 @@
+npx babel-node functions.js

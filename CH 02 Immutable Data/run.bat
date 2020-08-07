@@ -1,0 +1,1 @@
+npx babel-node object.js

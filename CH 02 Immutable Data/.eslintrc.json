@@ -1,0 +1,19 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "functional"
+    ],
+    "rules": {
+        "functional/no-this-expression": "error",
+        "functional/immutable-data": "error"
+    }
+}

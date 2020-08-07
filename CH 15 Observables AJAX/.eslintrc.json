@@ -1,0 +1,25 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "globals": {
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "functional"
+    ],
+    "rules": {
+        "functional/no-this-expression": "error",
+        "functional/immutable-data": "error",
+        "no-var": "error",
+        "functional/no-conditional-statement": ["error", {
+            "allowReturningBranches": "ifExhaustive"
+        }],
+        "functional/no-loop-statement": "error",
+        "functional/no-throw-statement": "error"
+    }
+}

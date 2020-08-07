@@ -1,0 +1,1 @@
+elm make src/Counter.elm --output=dist/counter.html

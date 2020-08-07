@@ -1,0 +1,9 @@
+{
+    "extends": ["react-app"],
+    "plugins": [
+        "functional"
+    ],
+    "rules": {
+        "functional/no-this-expression": "error"
+    }
+}

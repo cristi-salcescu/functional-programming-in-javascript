@@ -1,0 +1,23 @@
+{
+    "env": {
+        "browser": true,
+        "es6": true
+    },
+    "extends": "eslint:recommended",
+    "globals": {
+    },
+    "parserOptions": {
+        "ecmaVersion": 11,
+        "sourceType": "module"
+    },
+    "rules": {
+        "functional/no-this-expression": "error",
+        "functional/immutable-data": "error",
+        "no-var": "error",
+        "functional/no-conditional-statement": ["error", {
+            "allowReturningBranches": "ifExhaustive"
+        }],
+        "functional/no-loop-statement": "error",
+        "functional/no-throw-statement": "error"
+    }
+}

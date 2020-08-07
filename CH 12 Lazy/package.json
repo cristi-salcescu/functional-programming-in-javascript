@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/node": "^7.10.1",
+    "@babel/preset-env": "^7.10.2",
+    "immutable": "^4.0.0-rc.12",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-plugin-functional": "^3.0.1"
+  }
+}
