@@ -1,1 +1,1 @@
-npx babel-node filter.js
+npx babel-node ma-objects.js

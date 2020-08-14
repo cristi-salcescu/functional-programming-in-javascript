@@ -1,0 +1,10 @@
+{
+    "extends": ["react-app"],
+    "plugins": [
+        "immutable"
+    ],
+    "rules": {
+        "immutable/no-this": "error",
+        "immutable/no-mutation": "error"
+    }
+}

@@ -18,5 +18,5 @@ console.log(htmlRows);
  //   '<div>Heroes of Might and Magic</div>',
  //   '<div>World of Warcraft</div>' ]
 
- console.log(htmlRows.join());
- //"<div>Starcraft</div>,<div>Command and Conquer</div>,<div>Heroes of Might and Magic</div>,<div>World of Warcraft</div>"
+ console.log(htmlRows.join(''));
+ //"<div>Starcraft</div><div>Command and Conquer</div><div>Heroes of Might and Magic</div><div>World of Warcraft</div>"
