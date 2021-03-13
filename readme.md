@@ -32,4 +32,6 @@ Functional programming makes code easier to read, understand, test, and debug.
 
 [https://www.amazon.co.uk/dp/B08CZZ4FQQ](https://www.amazon.co.uk/dp/B08CZZ4FQQ)
 
-[https://www.amazon.de/dp/B08CZZ4FQQ](https://www.amazon.de/dp/B08CZZ4FQQ)
+[https://www.amazon.es/dp/B08CZZ4FQQ](https://www.amazon.de/dp/B08CZZ4FQQ)
+
+[https://www.amazon.fr/dp/B08CZZ4FQQ](https://www.amazon.de/dp/B08CZZ4FQQ)
